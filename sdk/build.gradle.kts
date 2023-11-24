@@ -44,6 +44,7 @@ dependencies {
     // https://developer.android.com/studio/write/java8-support#library-desugaring
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.3")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.4.10")
     implementation("androidx.core:core-ktx:1.8.0")
     implementation("androidx.appcompat:appcompat:1.4.0")
     implementation("androidx.security:security-crypto:1.1.0-alpha02")
